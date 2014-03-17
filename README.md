@@ -1,4 +1,4 @@
-3D_reconstruction
+Slope computation from multiple view images
 =================
 
 The code attempts to compute the slope of a given landing region in a satellite image from stereo images by
